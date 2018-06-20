@@ -1,0 +1,2 @@
+# Number-Detection
+The project is about detecting number of fingers shown in a hand and displaying them on the screen using OpenCV python. It is done by using the concept of background subtraction and then by using contours the number of fingers are detected. The logic used here is that if the angle between the fingers is less than 90 degree, then the number is updated. Using the number various appliances are turned on and off.
